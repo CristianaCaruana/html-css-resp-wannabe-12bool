@@ -1,0 +1,42 @@
+/*General styles*/
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #f6dec9;
+}
+
+h1,
+h4 {
+  padding: 10px;
+  color: purple;
+}
+
+p {
+  padding: 10px;
+  color: #4f3d40;
+  font-size: 16px;
+}
+
+.box {
+  margin-top: 5px;
+}
+
+img {
+  padding: 10px;
+}
+
+.logo {
+  width: 150px;
+  height: 100px;
+}
+
+.image {
+  background-color: blue;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+hr {
+  border-bottom: 1px solid white;
+}
